@@ -1,0 +1,5 @@
+salmon_index: "/media/box4/Experiments/Joanna/smartseq2_salmon/references/salmon_index.index"
+adaptor: "-a CTGTCTCTTATACACATCT  -A CTGTCTCTTATACACATCT"
+urqt_path: "/media/box2/Experiments/Jeff/RNAseq/paired_end/jeff2/scripts/UrQt/UrQt"
+
+ 
